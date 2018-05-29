@@ -1,0 +1,16 @@
+{
+  "name": "anime-bot",
+  "version": "1.0.0",
+  "description": "A simple bot for taking anime info from myanimelist.net",
+  "main": "bot.js",
+  "dependencies": {
+    "mssql": "^4.1.0",
+    "request": "^2.85.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hung Nguyen <viethungax@gmail.com>",
+  "license": "MIT"
+}
