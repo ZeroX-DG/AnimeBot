@@ -18,4 +18,4 @@ node bot.js
 
 ### Author
 
-[Hung Nguyen](fb.com/ZeroXCEH)
+[Hung Nguyen](https://fb.com/ZeroXCEH)
