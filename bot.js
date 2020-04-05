@@ -11,7 +11,7 @@ var anime_image_path = '/home/zerox/NetBeansProjects/ASStore/ASStore-war/web/ass
 
 const config = {
   user: 'sa',
-  password: 'ZeroX123',
+  password: 'YOUR_PASSWORD',
   server: 'localhost', // You can use 'localhost\\instance' to connect to named instance
   database: 'Test'
 }
